@@ -16,4 +16,5 @@ i will make the Example on Problem 08
 
 g++ Problem 08.cpp 
 
-Problem 08.exe
+a.exe  problem\ 08.cpp
+
