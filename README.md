@@ -7,7 +7,7 @@ https://github.com/ramazt/DSA2_Major_Assignment.git
 
 # second open Git and paste the URl
 get clone "https://github.com/ramazt/DSA2_Major_Assignment.git"
- 
+cd DSA2_Major_Assignment
 cd c++ main 
 
 # third install g++ on your device 
