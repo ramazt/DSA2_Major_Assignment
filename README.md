@@ -1,7 +1,7 @@
 # DSA2_Major_Assignment
 
 # First install Git to clone
-Take copy of the HTTPS from your Get hithubb DSA2_Major_Assignment
+Take copy of the HTTPS from my Get Github DSA2_Major_Assignment
 
 https://github.com/ramazt/DSA2_Major_Assignment.git
 
